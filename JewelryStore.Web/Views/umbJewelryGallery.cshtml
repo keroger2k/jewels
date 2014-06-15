@@ -1,0 +1,63 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+    var homePage = CurrentPage.AncestorsOrSelf(1).First();    
+    var jewelryGallery = homePage.umbJewelryGallery.First();
+    var jewels = jewelryGallery.umbJewels.OrderBy("publishDate desc, createDate desc");
+}
+
+<div class="container jewelry-gallery-table">
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th></th>
+                <th>
+                    Type
+                </th>
+                <th>
+                    Metal
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Stone
+                </th>
+                <th>
+                    SKU
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+				@foreach (var item in jewels)
+                {
+
+                    // If the editor has not explicitly provided the "Page title" property page
+                    // then just show the name of the page otherwise show the provided title
+                    var title = string.IsNullOrWhiteSpace(item.Title)
+                        ? item.Name
+                        : item.Title;
+
+
+                    // If the editor has not explicitly set the publishDate property then show the create date
+                    var dateTime = item.PublishDate == default(DateTime)
+                        ? item.CreateDate
+                        : item.PublishDate;
+
+                    <tr>
+                        <td><a href="@item.Url"><img src="http://placehold.it/50x50"></a></td>
+                        <td>@item.Type</td>
+                        <td>@item.Metal</td>
+                        <td>@Umbraco.Truncate(item.Description, 50)</td>
+                        <td>@item.Stone</td>
+                        <td>@item.SKU</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

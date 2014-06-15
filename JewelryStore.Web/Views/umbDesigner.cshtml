@@ -1,0 +1,14 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+    
+    // If the editor has not explicitly provided the "Page title" property page 
+    // then just show the name of the page otherwise show the provided title
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+}
+
+<div class="container designer-details">
+	<h1>@CurrentPage.Designer</h1>
+</div>

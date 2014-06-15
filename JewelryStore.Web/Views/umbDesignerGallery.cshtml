@@ -1,0 +1,63 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+    var homePage = CurrentPage.AncestorsOrSelf(1).First();    
+    var designerGallery = homePage.umbDesignerGallery.First();
+    var designers = designerGallery.umbDesigners.OrderBy("publishDate desc, createDate desc");
+}
+
+<div class="container designer-gallery-table">
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th></th>
+                <th>
+                    Family
+                </th>
+                <th>
+                    Color
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Carat
+                </th>
+                <th>
+                    SKU
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+				@foreach (var item in designers)
+                {
+
+                    // If the editor has not explicitly provided the "Page title" property page
+                    // then just show the name of the page otherwise show the provided title
+                    var title = string.IsNullOrWhiteSpace(item.Title)
+                        ? item.Name
+                        : item.Title;
+
+
+                    // If the editor has not explicitly set the publishDate property then show the create date
+                    var dateTime = item.PublishDate == default(DateTime)
+                        ? item.CreateDate
+                        : item.PublishDate;
+
+                    <tr>
+                        <td><a href="@item.Url"><img src="http://placehold.it/50x50"></a></td>
+                        <td>@item.Designer</td>
+                        <td>@item.Desinger</td>
+                        <td>@Umbraco.Truncate(item.Designer, 50)</td>
+                        <td>@item.Designer</td>
+                        <td>@item.Designer</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

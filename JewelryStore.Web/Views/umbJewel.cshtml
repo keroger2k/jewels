@@ -1,0 +1,10 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+	 var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+}
+<div class="container designer-details">
+	<h2>@CurrentPage.Type</h2>
+</div>

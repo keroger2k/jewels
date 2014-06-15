@@ -1,0 +1,846 @@
+﻿2014-06-14 07:24:52,669 [21] INFO  Umbraco.Web.Security.WebSecurity - [Thread 17] User Id: 0 logged in
+2014-06-14 07:24:55,993 [21] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 07:24:56,001 [21] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 8ms)
+2014-06-14 07:26:07,881 [21] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-06-14 07:26:07,919 [21] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 38ms)
+2014-06-14 07:27:18,963 [21] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2014-04-15 07:27:18
+2014-06-14 07:27:18,967 [21] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 23] Application shutdown. Reason: ConfigurationChange
+2014-06-14 07:27:40,931 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2014-06-14 07:27:40,948 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 13ms)
+2014-06-14 07:27:40,952 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-06-14 07:27:40,971 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 17ms)
+2014-06-14 07:27:41,059 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-06-14 07:27:41,061 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-06-14 07:27:41,061 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-06-14 07:27:41,061 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-06-14 07:27:41,075 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-06-14 07:27:41,076 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2014-06-14 07:27:41,076 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-06-14 07:27:41,079 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 2ms)
+2014-06-14 07:27:41,079 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-06-14 07:27:41,081 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-06-14 07:27:41,081 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-06-14 07:27:41,081 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2014-06-14 07:27:41,710 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 07:27:41,711 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 07:27:41,720 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 07:27:41,720 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-06-14 07:27:42,156 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2014-06-14 07:27:42,156 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2014-06-14 07:27:42,163 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2014-06-14 07:27:42,164 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-06-14 07:32:04,964 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-06-14 07:32:04,966 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 2ms)
+2014-06-14 07:32:05,162 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 07:32:05,162 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2014-06-14 07:32:54,893 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-06-14 07:32:54,896 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 2ms)
+2014-06-14 07:32:59,031 [10] INFO  umbraco.content - [Thread 16] Loading content from disk cache...
+2014-06-14 07:32:59,096 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-06-14 07:32:59,098 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 1ms)
+2014-06-14 07:32:59,325 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-06-14 07:32:59,327 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 1ms)
+2014-06-14 07:41:51,660 [10] WARN  Umbraco.Core.Services.PackagingService - [Thread 16] Packager: Error handling allowed templates. Template with alias 'umbGemStoneGallery' could not be found.
+2014-06-14 07:41:51,662 [10] WARN  Umbraco.Core.Services.PackagingService - [Thread 16] Packager: Error handling default template. Default template with alias 'umbGemStoneGallery' could not be found.
+2014-06-14 07:41:51,922 [10] WARN  Umbraco.Core.Services.PackagingService - [Thread 16] Packager: Error handling DocumentType structure. DocumentType with alias 'umbGemStone' could not be found and was not added to the structure for 'umbGemStoneGallery'.
+2014-06-14 07:42:44,490 [10] WARN  Umbraco.Core.Services.PackagingService - [Thread 16] Packager: Error handling allowed templates. Template with alias 'umbGemStone' could not be found.
+2014-06-14 07:42:44,493 [10] WARN  Umbraco.Core.Services.PackagingService - [Thread 16] Packager: Error handling default template. Default template with alias 'umbGemStone' could not be found.
+2014-06-14 07:49:16,327 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.IAction
+2014-06-14 07:49:16,449 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.IAction, found 34 (took 122ms)
+2014-06-14 07:50:40,151 [10] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'About' with Id '0' has been published.
+2014-06-14 07:50:54,215 [10] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'Home' with Id '1054' has been published.
+2014-06-14 07:51:30,790 [10] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Gem Stone Gallery' with Id '0' has been published.
+2014-06-14 07:53:16,469 [10] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'Gem Stone Gallery' with Id '1061' has been published.
+2014-06-14 07:59:14,130 [10] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2014-04-15 07:59:14
+2014-06-14 07:59:14,138 [10] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 9] Application shutdown. Reason: ConfigurationChange
+2014-06-14 07:59:23,925 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2014-06-14 07:59:23,951 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 22ms)
+2014-06-14 07:59:23,956 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-06-14 07:59:23,968 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 11ms)
+2014-06-14 07:59:24,059 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-06-14 07:59:24,060 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-06-14 07:59:24,060 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-06-14 07:59:24,061 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-06-14 07:59:24,070 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-06-14 07:59:24,071 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2014-06-14 07:59:24,071 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-06-14 07:59:24,073 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 1ms)
+2014-06-14 07:59:24,075 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-06-14 07:59:24,075 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-06-14 07:59:24,075 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-06-14 07:59:24,076 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2014-06-14 07:59:24,689 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 07:59:24,690 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 07:59:24,697 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 07:59:24,697 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-06-14 07:59:24,984 [18] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2014-06-14 07:59:24,986 [18] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2014-06-14 07:59:24,995 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2014-06-14 07:59:24,996 [18] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-06-14 07:59:29,714 [18] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2014-04-15 07:59:29
+2014-06-14 07:59:29,715 [18] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 8] Application shutdown. Reason: ConfigurationChange
+2014-06-14 07:59:57,925 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2014-06-14 07:59:57,936 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 5ms)
+2014-06-14 07:59:57,944 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-06-14 07:59:57,958 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 13ms)
+2014-06-14 07:59:58,040 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-06-14 07:59:58,041 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-06-14 07:59:58,041 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-06-14 07:59:58,042 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-06-14 07:59:58,052 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-06-14 07:59:58,052 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2014-06-14 07:59:58,052 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-06-14 07:59:58,056 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 3ms)
+2014-06-14 07:59:58,058 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-06-14 07:59:58,058 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-06-14 07:59:58,058 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-06-14 07:59:58,058 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-06-14 07:59:58,820 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 07:59:58,821 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 07:59:58,833 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 07:59:58,834 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-06-14 07:59:59,017 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2014-06-14 07:59:59,019 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2014-06-14 07:59:59,024 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2014-06-14 07:59:59,025 [21] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-06-14 08:00:00,313 [21] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2014-04-15 08:00:00
+2014-06-14 08:00:00,314 [21] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 9] Application shutdown. Reason: ConfigurationChange
+2014-06-14 08:00:31,918 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2014-06-14 08:00:31,927 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 5ms)
+2014-06-14 08:00:31,933 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-06-14 08:00:31,944 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 10ms)
+2014-06-14 08:00:32,023 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-06-14 08:00:32,023 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-06-14 08:00:32,024 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-06-14 08:00:32,025 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-06-14 08:00:32,035 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-06-14 08:00:32,041 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 6ms)
+2014-06-14 08:00:32,042 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-06-14 08:00:32,044 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 2ms)
+2014-06-14 08:00:32,046 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-06-14 08:00:32,047 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-06-14 08:00:32,047 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-06-14 08:00:32,047 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-06-14 08:00:32,788 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 08:00:32,789 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 08:00:32,817 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 08:00:32,818 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-06-14 08:00:33,008 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2014-06-14 08:00:33,009 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2014-06-14 08:00:33,013 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2014-06-14 08:00:33,014 [12] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-06-14 08:00:33,915 [12] INFO  umbraco.content - [Thread 8] Loading content from disk cache...
+2014-06-14 08:00:34,051 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-06-14 08:00:34,052 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 0ms)
+2014-06-14 08:00:34,260 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-06-14 08:00:34,261 [12] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 0ms)
+2014-06-14 14:44:56,806 [12] INFO  Umbraco.Web.Security.WebSecurity - [Thread 9] User Id: 0 logged in
+2014-06-14 14:49:31,248 [12] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.interfaces.IAction
+2014-06-14 14:49:31,253 [12] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.interfaces.IAction, found 34 (took 4ms)
+2014-06-14 14:51:08,528 [12] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'First Gem' with Id '0' has been published.
+2014-06-14 14:51:08,619 [12] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-06-14 14:51:08,620 [12] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 0ms)
+2014-06-14 14:52:11,701 [12] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 14:52:11,702 [12] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2014-06-14 14:59:24,654 [12] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'First Gem' with Id '1062' has been published.
+2014-06-14 15:07:39,115 [12] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'First Gem' with Id '1062' has been published.
+2014-06-14 15:10:35,373 [12] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 15:10:35,373 [12] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 15:24:44,626 [12] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'First Gem' with Id '1062' has been published.
+2014-06-14 15:28:32,161 [12] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2014-04-15 15:28:32
+2014-06-14 15:28:32,164 [12] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 10] Application shutdown. Reason: ConfigurationChange
+2014-06-14 15:28:43,366 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2014-06-14 15:28:43,394 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 25ms)
+2014-06-14 15:28:43,400 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-06-14 15:28:43,411 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 10ms)
+2014-06-14 15:28:43,496 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-06-14 15:28:43,496 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-06-14 15:28:43,496 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-06-14 15:28:43,497 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-06-14 15:28:43,508 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-06-14 15:28:43,509 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2014-06-14 15:28:43,509 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-06-14 15:28:43,515 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 6ms)
+2014-06-14 15:28:43,517 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-06-14 15:28:43,517 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-06-14 15:28:43,519 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-06-14 15:28:43,520 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-06-14 15:28:44,215 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-06-14 15:28:44,217 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-06-14 15:28:44,225 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 15:28:44,226 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-06-14 15:28:44,536 [26] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2014-06-14 15:28:44,536 [26] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2014-06-14 15:28:44,544 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2014-06-14 15:28:44,544 [26] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-06-14 15:31:14,924 [26] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of umbraco.interfaces.ITree
+2014-06-14 15:31:14,925 [26] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2014-06-14 15:31:14,961 [26] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-06-14 15:31:14,962 [26] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 0ms)
+2014-06-14 15:31:34,792 [26] INFO  Umbraco.Core.PluginManager - [Thread 11] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-06-14 15:31:34,793 [26] INFO  Umbraco.Core.PluginManager - [Thread 11] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 0ms)
+2014-06-14 15:35:49,416 [26] INFO  umbraco.content - [Thread 9] Loading content from database...
+2014-06-14 15:36:01,405 [26] INFO  umbraco.content - [Thread 10] Loading content from database...
+2014-06-14 15:37:21,892 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.IAction
+2014-06-14 15:37:21,895 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.IAction, found 34 (took 3ms)
+2014-06-14 15:37:57,560 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-06-14 15:37:57,561 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 1ms)
+2014-06-14 15:38:12,866 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 10] Content 'Jewelry Gallery' with Id '0' has been published.
+2014-06-14 15:38:19,110 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'Jewelry Gallery' with Id '1074' has been published.
+2014-06-14 15:38:42,410 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'Designer Gallery' with Id '0' has been published.
+2014-06-14 15:39:52,068 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'First Jewel' with Id '0' has been published.
+2014-06-14 15:40:26,476 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 10] Content 'Designer 1' with Id '0' has been published.
+2014-06-14 15:45:20,072 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'First Jewel' with Id '1076' has been published.
+2014-06-14 15:45:29,840 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 6] Content 'Jewelry Gallery' with Id '1074' has been published.
+2014-06-14 15:47:17,684 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 15] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbJewelryGallery.cshtml(36): error CS0103: The name 'gemStones' does not exist in the current context
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:48:57,224 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'First Jewel' with Id '1076' has been published.
+2014-06-14 15:53:32,767 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Designer 1' with Id '1077' has been published.
+2014-06-14 15:53:46,096 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 11] Content 'Designer Gallery' with Id '1075' has been published.
+2014-06-14 15:54:43,502 [26] INFO  umbraco.content - [Thread 10] Loading content from database...
+2014-06-14 15:56:05,557 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'Designer 1' with Id '1077' has been published.
+2014-06-14 15:57:37,088 [26] INFO  umbraco.content - [Thread 15] Loading content from database...
+2014-06-14 15:57:43,277 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 16] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent..ctor(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.ConvertToDocument(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetSingleByXPath(UmbracoContext umbracoContext, Boolean preview, String xpath, XPathVariable[] vars)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.DetermineIdByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Boolean hideTopLevelNode)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Nullable`1 hideTopLevelNode)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.FindContent(PublishedContentRequest docreq, String route)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.TryFindContent(PublishedContentRequest docRequest)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.<FindPublishedContent>b__2a(IContentFinder finder)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContent()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContentAndTemplate()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.PrepareRequest()
+   at Umbraco.Web.UmbracoModule.ProcessRequest(HttpContextBase httpContext)
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs e)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:58:20,641 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 15] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent..ctor(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.ConvertToDocument(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetSingleByXPath(UmbracoContext umbracoContext, Boolean preview, String xpath, XPathVariable[] vars)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.DetermineIdByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Boolean hideTopLevelNode)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Nullable`1 hideTopLevelNode)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.FindContent(PublishedContentRequest docreq, String route)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.TryFindContent(PublishedContentRequest docRequest)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.<FindPublishedContent>b__2a(IContentFinder finder)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContent()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContentAndTemplate()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.PrepareRequest()
+   at Umbraco.Web.UmbracoModule.ProcessRequest(HttpContextBase httpContext)
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs e)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:58:23,429 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 9] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:58:29,095 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 9] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent..ctor(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.ConvertToDocument(XmlNode xmlNode, Boolean isPreviewing)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetSingleByXPath(UmbracoContext umbracoContext, Boolean preview, String xpath, XPathVariable[] vars)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.DetermineIdByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Boolean hideTopLevelNode)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.PublishedContentCache.GetByRoute(UmbracoContext umbracoContext, Boolean preview, String route, Nullable`1 hideTopLevelNode)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.FindContent(PublishedContentRequest docreq, String route)
+   at Umbraco.Web.Routing.ContentFinderByNiceUrl.TryFindContent(PublishedContentRequest docRequest)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.<FindPublishedContent>b__2a(IContentFinder finder)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContent()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.FindPublishedContentAndTemplate()
+   at Umbraco.Web.Routing.PublishedContentRequestEngine.PrepareRequest()
+   at Umbraco.Web.UmbracoModule.ProcessRequest(HttpContextBase httpContext)
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs e)
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:58:32,102 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 10] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:58:52,886 [26] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1075. This is most likely caused by the page not being published.
+2014-06-14 15:59:02,359 [26] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 10] Couldn't find any page with nodeId=1075. This is most likely caused by the page not being published.
+2014-06-14 15:59:10,679 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Designer Gallery' with Id '1075' has been unpublished.
+2014-06-14 15:59:10,843 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Designer 1' with Id '1077' has been unpublished.
+2014-06-14 15:59:16,514 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 10] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:59:18,388 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 15] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:59:19,401 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 10] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:59:19,903 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 9] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetChildrenByAlias(GetMemberBinder binder)
+   at Umbraco.Web.Models.DynamicPublishedContent.<>c__DisplayClass9.<TryGetMember>b__6(Func`2 m)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at Umbraco.Web.Models.DynamicPublishedContent.TryGetMember(GetMemberBinder binder, Object& result)
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_umbGemStoneGallery_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbGemStoneGallery.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:59:22,586 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 6] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContentList..ctor(IEnumerable`1 items)
+   at Umbraco.Web.Models.DynamicPublishedContent.get_Children()
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_Partials_umbTopNavigation_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\Partials\umbTopNavigation.cshtml:line 4
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.RenderPartialExtensions.RenderPartial(HtmlHelper htmlHelper, String partialViewName)
+   at ASP._Page_Views_umbLayout_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbLayout.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.WebPages.WebPageBase.<>c__DisplayClass7.<RenderPageCore>b__6(TextWriter writer)
+   at System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   at System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   at System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   at System.Web.WebPages.WebPageBase.PopContext()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 15:59:56,885 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 11] An unhandled exception occurred
+System.Exception: ContentTypeService failed to find a content type with alias "DesignerGallery".
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.CreatePublishedContentType(PublishedItemType itemType, String alias)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.<>c__DisplayClassc.<Get>b__b()
+   at Umbraco.Core.Cache.CacheProviderExtensions.<>c__DisplayClass9`1.<GetCacheItem>b__8()
+   at Umbraco.Core.Cache.StaticCacheProvider.<>c__DisplayClass1a.<GetCacheItem>b__19(String key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Umbraco.Core.Cache.StaticCacheProvider.GetCacheItem(String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Cache.CacheProviderExtensions.GetCacheItem[T](ICacheProvider provider, String cacheKey, Func`1 getCacheItem)
+   at Umbraco.Core.Models.PublishedContent.PublishedContentType.Get(PublishedItemType itemType, String alias)
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.Initialize()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.get_SortOrder()
+   at Umbraco.Web.PublishedCache.XmlPublishedCache.XmlPublishedContent.<get_Children>b__0(IPublishedContent x)
+   at System.Linq.EnumerableSorter`2.ComputeKeys(TElement[] elements, Int32 count)
+   at System.Linq.EnumerableSorter`1.Sort(TElement[] elements, Int32 count)
+   at System.Linq.OrderedEnumerable`1.<GetEnumerator>d__0.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Umbraco.Web.Models.DynamicPublishedContentList..ctor(IEnumerable`1 items)
+   at Umbraco.Web.Models.DynamicPublishedContent.get_Children()
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_Views_Partials_umbTopNavigation_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\Partials\umbTopNavigation.cshtml:line 4
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.RenderPartialExtensions.RenderPartial(HtmlHelper htmlHelper, String partialViewName)
+   at ASP._Page_Views_umbLayout_cshtml.Execute() in c:\Users\Kyle\Documents\Visual Studio 2013\Projects\JewelryStore\JewelryStore.Web\Views\umbLayout.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.WebPages.WebPageBase.<>c__DisplayClass7.<RenderPageCore>b__6(TextWriter writer)
+   at System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   at System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   at System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   at System.Web.WebPages.WebPageBase.PopContext()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__19()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass1.<MakeVoidDelegate>b__0()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 16:00:03,739 [26] INFO  umbraco.content - [Thread 9] Loading content from database...
+2014-06-14 16:00:08,241 [26] INFO  umbraco.content - [Thread 6] Loading content from database...
+2014-06-14 16:00:10,462 [26] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 16] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at umbraco.cms.businesslogic.web.DocumentType.SetupNode(IContentType contentType)
+   at umbraco.cms.businesslogic.web.DocumentType.setupNode()
+   at umbraco.cms.businesslogic.CMSNode..ctor(Int32 Id)
+   at umbraco.controls.ContentTypeControlNew.LoadContentType(Int32 docTypeId)
+   at umbraco.controls.ContentTypeControlNew.LoadContentType()
+   at umbraco.controls.ContentTypeControlNew.OnInit(EventArgs e)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Control.<InitRecursiveAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Util.WithinCancellableCallbackTaskAwaitable.WithinCancellableCallbackTaskAwaiter.GetResult()
+   at System.Web.UI.Page.<ProcessRequestMainAsync>d__14.MoveNext()
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.<ProcessRequestMainAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Util.WithinCancellableCallbackTaskAwaitable.WithinCancellableCallbackTaskAwaiter.GetResult()
+   at System.Web.UI.Page.<ProcessRequestAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.UI.Page.<ProcessRequestAsync>d__2c.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.TaskAsyncHelper.EndTask(IAsyncResult ar)
+   at System.Web.UI.Page.AsyncPageEndProcessRequest(IAsyncResult result)
+   at ASP.umbraco_settings_editnodetypenew_aspx.EndProcessRequest(IAsyncResult ar)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2014-06-14 16:00:36,091 [26] INFO  umbraco.content - [Thread 15] Loading content from database...
+2014-06-14 16:00:49,961 [26] INFO  umbraco.content - [Thread 10] Loading content from database...
+2014-06-14 16:04:26,335 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'Designer Gallery' with Id '0' has been published.
+2014-06-14 16:04:41,080 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 18] Content 'Expensive Shit' with Id '0' has been published.
+2014-06-14 16:08:57,363 [26] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'About' with Id '1060' has been published.
+2014-06-14 21:59:39,192 [26] INFO  Umbraco.Web.Security.WebSecurity - [Thread 18] User Id: 0 logged in

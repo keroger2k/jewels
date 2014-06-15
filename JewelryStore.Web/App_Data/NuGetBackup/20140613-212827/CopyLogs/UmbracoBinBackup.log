@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, June 13, 2014 9:28:28 PM
+   Source : c:\users\kyle\documents\visual studio 2013\Projects\JewelryStore\JewelryStore.Web\bin\
+     Dest : c:\users\kyle\documents\visual studio 2013\Projects\JewelryStore\JewelryStore.Web\App_Data\NuGetBackup\20140613-212827\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	c:\users\kyle\documents\visual studio 2013\Projects\JewelryStore\JewelryStore.Web\bin\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         0         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, June 13, 2014 9:28:28 PM
+
